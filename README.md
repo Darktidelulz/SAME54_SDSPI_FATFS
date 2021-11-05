@@ -1,5 +1,5 @@
 # SAME54_SDSPI_FATFS
-SAM D/D 5X
+SAM D/E 5X
 
 Did not know how to implement the SDSPI on SAME53, used the AVR example fro mthe FatFs sample projects  @ http://elm-chan.org/fsw/ff/00index_e.html and "ported" this to SAME53, Should works for SAMD51, SAME51, SAME53 and SAME54.
 
