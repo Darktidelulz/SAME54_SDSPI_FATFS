@@ -1,7 +1,7 @@
 # SAME54_SDSPI_FATFS
 SAM D/E 5X
 
-Did not know how to implement the SDSPI on SAME53, used the AVR example fro mthe FatFs sample projects  @ http://elm-chan.org/fsw/ff/00index_e.html and "ported" this example to SAME53, Should works for SAMD51, SAME51, SAME53 and SAME54.
+Used the generic example from the FatFs sample projects  @ http://elm-chan.org/fsw/ff/00index_e.html and "ported" this example to SAME53, Should works for SAMD51, SAME51, SAME53 and SAME54.
 
 In atmel_start_pins.h the following is definded and corrosponds to a SERCOM4 SPI implemention I used in start.atmel.com. 
 
